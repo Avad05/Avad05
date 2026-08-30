@@ -26,7 +26,7 @@ Software Developer based in Mumbai, India. Final-year Computer Engineering under
 
 ## Contact
 
-[avadhutkaskar@gmail.com](mailto:avadhutkaskar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/avadhut-kaskar-8144852b7/) · [GitHub](https://github.com/Avad05)
+[avadhutkaskar@gmail.com](mailto:avadhutkaskar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/avadhut-kaskar-8144852b7/)
 
 ## Tech Stack
 
