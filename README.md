@@ -9,7 +9,7 @@ Software Developer based in Mumbai, India. Final-year Computer Engineering under
 - **Peer Demo Showcase (Lamatic AgentKit)** — Open-source kit contribution that crawls GitHub repos and matches builders to sponsors using automated reasoning. [PR #295](https://github.com/Lamatic/AgentKit/pull/295)
 - **Emergency Response Coordination System** — Real-time emergency dispatch platform with priority-based unit allocation and live incident tracking.
 - **Blog-API** — Full-stack blogging platform with JWT auth and Prisma ORM, deployed on Cloudflare Pages.
-- Open source contributor to **Odysseus** ([PR #4043](https://github.com/odysseus-dev/odysseus/issues/4045)) — backend timing fix on a large active codebase.
+- Open source contributor to **Odysseus** [PR #4043](https://github.com/odysseus-dev/odysseus/issues/4045) — backend timing fix on a large active codebase.
 
 ## Current Stack
 
