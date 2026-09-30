@@ -20,7 +20,6 @@ Software Developer based in Mumbai, India. Final-year Computer Engineering under
 
 ## What I'm Looking For
 
-- Remote backend or full-stack internships
 - Teams building real systems, not tutorials
 - Open source projects with active maintainers
 
